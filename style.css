@@ -1,0 +1,41 @@
+/*  Comp 20 HW4
+ *  CSS document for XML
+ */
+@charset "utf-8";
+
+setList {
+    display: block;
+    border: 3px solid #a703a7;
+    text-align: center;
+}
+
+setList song {
+    border-bottom: 1 px solid #000000;
+}
+
+title::before {
+    content: "Title: ";
+}
+
+artist::before {
+    content: "Artist: ";
+}
+
+title {
+    font-family: sans-serif;
+    font-size: 20pt;
+    padding-left: 40px;
+}
+
+artist {
+    font-family: sans-fantasy;
+    font-size: 18pt;
+}
+
+genre, year {
+    font-family: serif;
+    font-size: 12pt;
+    padding-left: 25px;
+}
+
+e {display: block;}

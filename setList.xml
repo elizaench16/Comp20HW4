@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+
+<setList>
+    <song>
+        <artist>John Lennon</artist>
+        <title>Imagine</title>
+        <genre>Rock</genre>
+        <year>1971</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Aretha Franklin</artist>
+        <title>Respect</title>
+        <genre>Rhythm and Blues</genre>
+        <year>1967</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>The Beatles</artist>
+        <title>Yesterday</title>
+        <genre>Rock</genre>
+        <year>1965</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Led Zeppelin</artist>
+        <title>Stairway to Heaven</title>
+        <genre>Rock</genre>
+        <year>1971</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Jerry Lee Lewis</artist>
+        <title>Great Balls of Fire</title>
+        <genre>Rock and Roll</genre>
+        <year>1957</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Simon and Garfunkel</artist>
+        <title>The Boxer</title>
+        <genre>Folk</genre>
+        <year>1969</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Steppenwolf</artist>
+        <title>Born to Be Wild</title>
+        <genre>Rock</genre>
+        <year>1968</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>The Beatles</artist>
+        <title>Eleanor Rigby</title>
+        <genre>Rock</genre>
+        <year>1966</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Queen</artist>
+        <title>Bohemian Rhapsody</title>
+        <genre>Rock</genre>
+        <year>1975</year>
+    </song>
+    <e></e>
+    <song>
+        <artist>Amy Winehouse</artist>
+        <title>Rehab</title>
+        <genre>Rhythm and Blues</genre>
+        <year>2007</year>
+    </song>      
+</setList>
